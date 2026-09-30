@@ -6,16 +6,16 @@
   --color-foreground: #1C1917;
   --color-card: #FFFFFF;
   --color-card-foreground: #1C1917;
-  --color-primary: #1E4D2B;
+  --color-primary: #7f0000;
   --color-primary-foreground: #FDFAF6;
   --color-secondary: #F5EEE4;
   --color-secondary-foreground: #44403C;
   --color-muted: #F0E9DE;
   --color-muted-foreground: #78716C;
-  --color-accent: #C4622D;
+  --color-accent: #788aa3;
   --color-accent-foreground: #FDFAF6;
   --color-border: #E5D9CC;
-  --color-ring: #1E4D2B;
+  --color-ring: #7f0000;
   --font-family-display: 'Fraunces', Georgia, serif;
   --font-family-body: 'Outfit', system-ui, sans-serif;
 }
